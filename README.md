@@ -24,9 +24,6 @@ I bridge the gap between **aesthetic design** and **functional code**. With a ba
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
-
 ---
 
 ### 📫 Let's Connect!
