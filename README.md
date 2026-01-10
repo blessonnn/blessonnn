@@ -1,5 +1,42 @@
 # 💫 About Me:
-I'm currently learning WEB DEVELOPMENT<br>Interested in FULLSTACK
+# Hi there, I'm [Your Name] 👋
+
+### 🚀 B.Tech Final Year CSE Student | Aspiring Full Stack Developer & UI/UX Designer
+
+I bridge the gap between **aesthetic design** and **functional code**. With a background in CSE and a passion for pixels, I spend my time crafting user-centric experiences in Figma and bringing them to life with modern web technologies.
+
+---
+
+### 🎨 What I Do
+* **Design:** Expert in **Figma** (Prototyping, Design Systems, High-fidelity Wireframes).
+* **Frontend:** Building responsive UIs with **React.js**, **Tailwind CSS**, and **Next.js**.
+* **Backend:** Learning the ropes of **Node.js** and **Database management** to complete the stack.
+* **Goal:** Currently upgrading my Full Stack skills to build seamless, end-to-end digital products.
+
+---
+
+### 🛠️ My Toolbox
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* 🎨 **Portfolio/Behance:** [yourlink.com](https://yourlink.com)
+* 📧 **Email:** [yourname@email.com]
+
+> "Design is not just what it looks like and feels like. Design is how it works."
 
 
 ## 🌐 Socials:
