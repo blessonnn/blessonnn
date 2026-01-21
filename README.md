@@ -27,8 +27,8 @@ I bridge the gap between **aesthetic design** and **functional code**. With a ba
 
 
 ### 📫 Let's Connect!
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/blesson-j-f-842ab4388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-* 🎨 **pinterest:** [yourlink.com](https://in.pinterest.com/blesnnnn/)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/blesson-j-f-842ab4388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/blesson-j-f-842ab4388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* 🎨 **pinterest:** [https://in.pinterest.com/blesnnnn/](https://in.pinterest.com/blesnnnn/)
 * 📧 **Email:** [jeyk7402@gmail.com]
 
 > "Design is not just what it looks like and feels like. Design is how it works."
