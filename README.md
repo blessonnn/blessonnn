@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi there, I'm Blesson JF👋
 
-### 🚀 B.Tech Final Year CSE Student | Aspiring Full Stack Developer & UI/UX Designer
+### 🚀 B.Tech pass out  Student | Aspiring Full Stack Developer & UI/UX Designer
 
 I bridge the gap between **aesthetic design** and **functional code**. With a background in CSE and a passion for pixels, I spend my time crafting user-centric experiences in Figma and bringing them to life with modern web technologies.
 
